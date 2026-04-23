@@ -132,7 +132,7 @@ export default function App() {
             E ele começa aqui.
           </p>
           <a
-            href="https://www.instagram.com/tatianeenfermeiraacupunturista/"
+            href="https://www.instagram.com/tatianemedicinachinesa/"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary mt-4 max-lg:absolute max-lg:bottom-28"
@@ -340,7 +340,7 @@ export default function App() {
               <a href="https://wa.me/+5532988847693" target="_blank" rel="noopener noreferrer">
                 <img src="/whatsapp.svg" alt="WhatsApp" />
               </a>
-              <a href="https://www.instagram.com/tatianeenfermeiraacupunturista/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/tatianemedicinachinesa/" target="_blank" rel="noopener noreferrer">
                 <img src="/instagram.svg" alt="Instagram" />
               </a>
             </div>
